@@ -26,7 +26,7 @@ public class Ballon {
 		trace.methodeCall();
 		g.drawImage(bild, x - d / 2, y - d / 2, d, d, null);
 	}
-
+//
 	public void groesseVeraendern(int v) {
 		trace.methodeCall();
 		d += v;
